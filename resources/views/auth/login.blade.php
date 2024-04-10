@@ -19,7 +19,7 @@
                     <img src="{{asset('img/login-image.jpg')}}" alt="imagen login" class="w-full h-auto">
                 </div>
 
-                <div class="sm:w-1/2 mt-4 sm:mt-5 sm:w-full">
+                <div class="sm:w-1/2 mt-4 sm:mt-5 ">
                     <div>
                         <x-label for="email" value="{{ __('Email') }}" />
                         <x-input id="email" class="block mt-1 w-full" type="email" name="email" :value="old('email')" required autofocus autocomplete="username" />

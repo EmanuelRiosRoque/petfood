@@ -1,6 +1,6 @@
 <div class="p-6 lg:p-8 bg-white border-b border-gray-200 items-center justify-center flex flex-col sm:flex-row">
     <div class="px-6">
-        <img class="max-w-full h-auto " src="{{asset('img/main.jpg')}}" alt="">
+        <img class="max-w-full h-auto" src="{{asset('img/main.jpg')}}" alt="">
     </div>
 
     <div class="px-6">
