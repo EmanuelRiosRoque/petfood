@@ -12,8 +12,13 @@
             </section>
 
             <section>
-                <x-que-es></x-que-es>
+                <x-que-es />
             </section>
+
+            <section>
+
+            </section>
+
         </div>
     </div>
 </x-app-layout>
